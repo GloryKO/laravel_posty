@@ -6,5 +6,4 @@ Feel free to use this code however you like!
 
 # Links
 
-* [Codecourse](https://codecourse.com)
-* [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+* The code for the Posty project, allows users post comment ,like ,unlike and delete posts.
